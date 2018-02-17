@@ -1,0 +1,7 @@
+  <div class="Head"></div>
+    <div class="Wrap">
+    <div class="Main"></div>
+    <div class="SideBar"></div>
+    </div>
+  <div class="Footer"></div>
+  <div style="clear:both"></div>

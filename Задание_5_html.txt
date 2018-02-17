@@ -1,0 +1,90 @@
+  <div class="Main">
+    <div class ="Head">
+    <img src="header_bg.gif" alt="изображение" width="400" height="100%" />
+    </div>
+    <div class = "text" 
+         <p id = "friends">Дузья,</p>
+         <p> По нашему 3-летнему опыту работы мы точно знаем: после Нового года большинство клиник Киева поднимают цены.</p>
+         <p> Но только до 31 января <a href="URL">DOC.UA</a></p> фиксирует цены на все медицинские услуги, включая консультации и диагностику. </p>
+         <p> У Вас осталось всего 5 дней - успейте записаться!</p>
+         <p>Для Вашего удобства, мы также собрали лучшие предложения от наших клиник-партнеров.<p>
+         </div>
+<div class = "uzi"> 
+  <div class = "img_uzi"> 
+  <img src="i1.png" alt="изображение" width="185" height="100" />
+    <div class="podpisi">
+      <p> Прием гинеколога + УЗИ за 350 грн вместо 650 грн </p>
+    <div class ="zapisatsa"onclick="location.href='ЛИНК';">
+    <div class ="zap"> 
+    <p> Записаться <p>
+    </div>
+    </div>
+    </div>
+  </div>
+</div>
+<div class = "zubi"> 
+   <div class = "img_zubi"> 
+  <img src="i2.png" alt="изображение" width="185" height="100" />
+    <div class="podpisi">
+      <p> Чистка зубов за 350 грн вместо 700грн </p>
+    <div class="zapisatsa"onclick="location.href='ЛИНК';">
+    <div class ="zap"> 
+    <p> Записаться <p>
+    </div>
+    </div>
+    </div>
+  </div>
+</div>
+<div class = "ekg">
+<div class = "img_ekg"> 
+  <img src="i3.png" alt="изображение" width="100%" height="100" />
+    <div class="podpisi">
+      <p> Прием кардиолога ЭКГ и УЗИ сердца за 350 грн вместо 900 грн </p>
+    <div class ="zapisatsa"onclick="location.href='ЛИНК';">
+      <div class ="zap"> 
+      <p> Записаться <p>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+<div class = "nevrolog">
+<div class = "img_nevrolog"> 
+  <img src="i4.png" alt="изображение" width="100%" height="100" />
+    <div class="podpisi">
+      <p> Прием невролога-кандидата меднаук за 250 грн вместо 420 грн </p>
+    <div class ="zapisatsa"onclick="location.href='ЛИНК';">
+      <div class ="zap"> 
+      <p> Записаться <p>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+<div class = "grud">
+  <div class = "img_grud"> 
+  <img src="i5.png" alt="изображение" width="100%" height="100" />
+    <div class="podpisi">
+      <p> Гинекологическое УЗИ + УЗИ груди за 350 грн вместо 650 грн </p>
+    <div class ="zapisatsa"onclick="location.href='ЛИНК';">
+      <div class ="zap"> 
+      <p> Записаться <p>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+<div class = "text" 
+<p> Помните, что здоровье - превыше всего. Найти правильного врача Вам всегда поможет <a href="URL">DOC.UA</a></p>
+
+<p>С уважением,
+<p>команда Сервиса поиска врачей <a href="URL">DOC.UA</a></p>
+ <div class ="zapisatsa"onclick="location.href='ЛИНК';">
+      <div class ="zap"> 
+      <p> Like DOC.UA на Facebook </p>
+      </div>
+    </div>
+</div>
+  
+
+ 

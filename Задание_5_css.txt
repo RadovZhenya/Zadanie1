@@ -1,0 +1,68 @@
+.Main {
+  height: 800px;
+  width: 400px;
+  margin: auto; 
+}
+.Head{
+  height: 100px;
+  width: 400px;
+  margin: auto;
+}
+.text{
+  font-size: 10px;
+  text-align:left;
+  line-height:1.5;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.podpisi{
+  width:100%;
+  font-size: 10px;
+  text-align:left;
+  line-height:1.5;
+}
+.zapisatsa{
+  display: block;
+  background: red;
+  height:100%;
+  width:100%;
+}
+.zap
+{
+  color: white;
+  width:100%;
+  font-size: 15px;
+  text-align:center;
+}
+.uzi{
+  height: 200px;
+  width: 185px;
+  margin: 5px;
+  float:left;
+}
+.zubi{
+  height: 200px;
+  width: 185px;
+  margin: 5px;
+  float:right;
+}
+.ekg{
+  height: 200px;
+  width: 120px;
+  margin: 5px;
+  float:left;
+}
+.nevrolog{
+  height: 200px;
+  width: 120px;
+  margin: 5px;
+  float:left;
+}
+.grud{
+  height: 200px;
+  width: 120px;
+  margin: 5px;
+  float:left;
+}
+
